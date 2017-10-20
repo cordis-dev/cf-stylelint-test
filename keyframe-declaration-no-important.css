@@ -1,0 +1,19 @@
+@keyframes important1 {
+  from {
+    margin-top: 50px;
+  }
+  to {
+    margin-top: 100px !important;
+  }
+}
+
+a { color: pink !important; }
+
+@keyframes important1 {
+  from {
+    margin-top: 50px;
+  }
+  to {
+    margin-top: 100px;
+  }
+}
