@@ -7,7 +7,7 @@
     "length-zero-no-unit": true,
     "no-invalid-double-slash-comments": true,
     "no-extra-semicolons": true,
-    "no-duplicate-selectors": true,
+    "no-duplicate-selectors": false,
     "font-family-no-duplicate-names": true,
     "declaration-block-no-shorthand-property-overrides": true,
     "declaration-block-no-duplicate-properties": [true, {
