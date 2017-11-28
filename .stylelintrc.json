@@ -15,7 +15,7 @@
       }],
     "comment-no-empty": true,
     "color-no-invalid-hex": true,
-    "block-no-empty": true,
+    "block-no-empty": false,
     "shorthand-property-no-redundant-values": true,
     "no-eol-whitespace": [true, {
         "ignore": [ "empty-lines" ]
