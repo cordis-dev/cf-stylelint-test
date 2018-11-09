@@ -3,8 +3,12 @@
     "stylelint-order"
   ],
   "rules": {
+    "function-calc-no-unspaced-operator": true,
+    "at-rule-name-case": "lower",
+    "number-leading-zero": "always",
+    "selector-attribute-quotes": "always",
     "order/order": ["custom-properties", "dollar-variables", "declarations", "rules", "at-rules"],
-    "length-zero-no-unit": true,
+    "length-zero-no-unit": true,    
     "no-invalid-double-slash-comments": true,
     "no-extra-semicolons": true,
     "no-duplicate-selectors": false,
